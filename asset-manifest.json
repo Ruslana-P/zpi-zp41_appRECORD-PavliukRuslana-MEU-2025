@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/Ruslana-P/zpi-zp41_appRECORD-PavliukRuslana-MEU-2025/static/css/main.3c010264.css",
+    "main.js": "/Ruslana-P/zpi-zp41_appRECORD-PavliukRuslana-MEU-2025/static/js/main.2c44fcac.js",
+    "static/media/picture.png": "/Ruslana-P/zpi-zp41_appRECORD-PavliukRuslana-MEU-2025/static/media/picture.1226354e4cfbd07b917d.png",
+    "static/media/lists.png": "/Ruslana-P/zpi-zp41_appRECORD-PavliukRuslana-MEU-2025/static/media/lists.8ff7f8fd571a30827d8f.png",
+    "static/media/table.png": "/Ruslana-P/zpi-zp41_appRECORD-PavliukRuslana-MEU-2025/static/media/table.087e71df406cf5e39c7c.png",
+    "static/media/form_code.png": "/Ruslana-P/zpi-zp41_appRECORD-PavliukRuslana-MEU-2025/static/media/form_code.18ffe5cd0f7fdb842088.png",
+    "static/media/table_code.png": "/Ruslana-P/zpi-zp41_appRECORD-PavliukRuslana-MEU-2025/static/media/table_code.b99e683cab3029055a6f.png",
+    "static/media/link.png": "/Ruslana-P/zpi-zp41_appRECORD-PavliukRuslana-MEU-2025/static/media/link.c3383f27e7ad39d5f6d4.png",
+    "static/media/table_html.png": "/Ruslana-P/zpi-zp41_appRECORD-PavliukRuslana-MEU-2025/static/media/table_html.8e350bb97e4c16a07b43.png",
+    "static/media/unorderedList_html.png": "/Ruslana-P/zpi-zp41_appRECORD-PavliukRuslana-MEU-2025/static/media/unorderedList_html.7ef051c4e038b492bc59.png",
+    "static/media/unorderedList_code.png": "/Ruslana-P/zpi-zp41_appRECORD-PavliukRuslana-MEU-2025/static/media/unorderedList_code.4241c90b9c4f59aec472.png",
+    "static/media/form_html.png": "/Ruslana-P/zpi-zp41_appRECORD-PavliukRuslana-MEU-2025/static/media/form_html.a6526a397c3defaa48a9.png",
+    "static/media/form.png": "/Ruslana-P/zpi-zp41_appRECORD-PavliukRuslana-MEU-2025/static/media/form.6207f040036e41bb8023.png",
+    "static/media/orderedList_html.png": "/Ruslana-P/zpi-zp41_appRECORD-PavliukRuslana-MEU-2025/static/media/orderedList_html.953da81de10a32102c8b.png",
+    "static/media/html_structure.png": "/Ruslana-P/zpi-zp41_appRECORD-PavliukRuslana-MEU-2025/static/media/html_structure.0e605a94e994f6ec1347.png",
+    "static/media/orderedList_code.png": "/Ruslana-P/zpi-zp41_appRECORD-PavliukRuslana-MEU-2025/static/media/orderedList_code.7bfeb6a44136555addc0.png",
+    "static/media/picture_html.png": "/Ruslana-P/zpi-zp41_appRECORD-PavliukRuslana-MEU-2025/static/media/picture_html.aee7351422a23de86aa7.png",
+    "static/media/picture_code1.png": "/Ruslana-P/zpi-zp41_appRECORD-PavliukRuslana-MEU-2025/static/media/picture_code1.e79105d11b6bdeaf3ee8.png",
+    "static/media/link_code.png": "/Ruslana-P/zpi-zp41_appRECORD-PavliukRuslana-MEU-2025/static/media/link_code.71c65d7a05d22ff4f48d.png",
+    "static/media/link_html.png": "/Ruslana-P/zpi-zp41_appRECORD-PavliukRuslana-MEU-2025/static/media/link_html.ddf97062adf56d33e029.png",
+    "static/media/picture_code2.png": "/Ruslana-P/zpi-zp41_appRECORD-PavliukRuslana-MEU-2025/static/media/picture_code2.b89cff5b4eabbb0ba3df.png",
+    "index.html": "/Ruslana-P/zpi-zp41_appRECORD-PavliukRuslana-MEU-2025/index.html",
+    "main.3c010264.css.map": "/Ruslana-P/zpi-zp41_appRECORD-PavliukRuslana-MEU-2025/static/css/main.3c010264.css.map",
+    "main.2c44fcac.js.map": "/Ruslana-P/zpi-zp41_appRECORD-PavliukRuslana-MEU-2025/static/js/main.2c44fcac.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c010264.css",
+    "static/js/main.2c44fcac.js"
+  ]
+}
