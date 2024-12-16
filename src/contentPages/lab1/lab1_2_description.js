@@ -50,7 +50,7 @@ export const getLab1_2_description = () => (
       <a
         target="_blank"
         rel="noreferrer noopener"
-        href="https://labs-raport.netlify.app/"
+        href="https://web-raport.netlify.app/"
       >
         тут
       </a>
