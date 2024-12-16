@@ -1,4 +1,4 @@
-import { labsNames } from "../../utils/constants";
+import { labsNames } from "../../utils/lab1Content";
 import { TabsCnt, Tab } from "./styled";
 
 const LabsTabs = ({ activeIndex, clickHandler }) => {

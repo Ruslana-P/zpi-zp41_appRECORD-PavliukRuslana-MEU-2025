@@ -4,12 +4,10 @@ import Header from "./components/Header/Header";
 import RaportContent from "./components/RaportContent/RaportContent";
 import { RaportBodyCnt } from "./styled";
 import LabsTabs from "./components/LabsTabs/LabsTabs";
-import {
-  lab1Content,
-  lab2Content,
-  lab3Content,
-  lab4Content,
-} from "./utils/constants";
+import { lab1Content } from "./utils/lab1Content";
+import { lab2Content } from "./utils/lab2Content";
+import { lab3Content } from "./utils/lab3Content";
+import { lab4Content } from "./utils/lab4Content";
 
 const LabsContent = {
   1: lab1Content,
