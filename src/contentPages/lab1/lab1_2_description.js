@@ -16,6 +16,7 @@ export const getLab1_2_description = () => (
       Посилання на репозиторій власного WEB-застосунку{" "}
       <a
         target="_blank"
+        rel="noreferrer noopener"
         href="https://github.com/Ruslana-P/zpi-zp41_appWEB-PavliukRuslana-MEU-2025"
       >
         тут
@@ -24,7 +25,11 @@ export const getLab1_2_description = () => (
 
     <p>
       Посилання на живу сторінку власного WEB-застосунку{" "}
-      <a target="_blank" href="https://home-plants-shop.netlify.app/">
+      <a
+        target="_blank"
+        rel="noreferrer noopener"
+        href="https://home-plants-shop.netlify.app/"
+      >
         тут
       </a>
     </p>
@@ -33,6 +38,7 @@ export const getLab1_2_description = () => (
       Посилання на репозиторій звітного HTML-документа{" "}
       <a
         target="_blank"
+        rel="noreferrer noopener"
         href="https://github.com/Ruslana-P/zpi-zp41_appRECORD-PavliukRuslana-MEU-2025"
       >
         тут
@@ -41,7 +47,11 @@ export const getLab1_2_description = () => (
 
     <p>
       Посилання на живу сторінку звітного HTML-документ{" "}
-      <a target="_blank" href="https://labs-raport.netlify.app/">
+      <a
+        target="_blank"
+        rel="noreferrer noopener"
+        href="https://labs-raport.netlify.app/"
+      >
         тут
       </a>
     </p>
@@ -49,6 +59,7 @@ export const getLab1_2_description = () => (
       Посилання на репозиторій з самостійними роботами{" "}
       <a
         target="_blank"
+        rel="noreferrer noopener"
         href="https://github.com/Ruslana-P/zpi-zp41_appINDEPENDENT-PavliukRuslana-MEU-2025"
       >
         тут
@@ -58,6 +69,7 @@ export const getLab1_2_description = () => (
       Посилання на живу сторінку з самостійною роботою 1{" "}
       <a
         target="_blank"
+        rel="noreferrer noopener"
         href="https://ruslana-p.github.io/zpi-zp41_appINDEPENDENT-PavliukRuslana-MEU-2025/Independent-Work-1/index.html"
       >
         тут
@@ -67,6 +79,7 @@ export const getLab1_2_description = () => (
       Посилання на живу сторінку з самостійною роботою 2{" "}
       <a
         target="_blank"
+        rel="noreferrer noopener"
         href="https://ruslana-p.github.io/zpi-zp41_appINDEPENDENT-PavliukRuslana-MEU-2025/Independent-Work-2/index.html"
       >
         тут

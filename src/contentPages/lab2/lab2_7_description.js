@@ -4,7 +4,11 @@ export const getLab2_7_description = () => (
   <>
     <p>
       Посилання на живу сторінку виконаного завдання знаходиться{" "}
-      <a href="https://ruslana-p.github.io/web_lab2_1_3/" target="_blank">
+      <a
+        href="https://ruslana-p.github.io/web_lab2_1_3/"
+        target="_blank"
+        rel="noreferrer noopener"
+      >
         тут
       </a>
     </p>

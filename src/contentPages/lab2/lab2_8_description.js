@@ -8,6 +8,7 @@ export const getLab2_8_description = () => (
       <a
         href="https://github.com/Ruslana-P/web_lab2_1_3/blob/main/index.html"
         target="_blank"
+        rel="noreferrer noopener"
       >
         тут
       </a>

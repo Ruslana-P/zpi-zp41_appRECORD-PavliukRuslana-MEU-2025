@@ -20,6 +20,7 @@ export const getLab2_1_description = () => (
       Посилання на репозиторій власного WEB-застосунку{" "}
       <a
         target="_blank"
+        rel="noreferrer noopener"
         href="https://github.com/Ruslana-P/zpi-zp41_appWEB-PavliukRuslana-MEU-2025"
       >
         тут
@@ -28,7 +29,11 @@ export const getLab2_1_description = () => (
 
     <p>
       Посилання на живу сторінку власного WEB-застосунку{" "}
-      <a target="_blank" href="https://home-plants-shop.netlify.app/">
+      <a
+        target="_blank"
+        rel="noreferrer noopener"
+        href="https://home-plants-shop.netlify.app/"
+      >
         тут
       </a>
     </p>
@@ -36,6 +41,7 @@ export const getLab2_1_description = () => (
       Посилання на репозиторій звітного HTML-документа{" "}
       <a
         target="_blank"
+        rel="noreferrer noopener"
         href="https://github.com/Ruslana-P/zpi-zp41_appRECORD-PavliukRuslana-MEU-2025"
       >
         тут
@@ -44,7 +50,11 @@ export const getLab2_1_description = () => (
 
     <p>
       Посилання на живу сторінку звітного HTML-документ{" "}
-      <a target="_blank" href="https://labs-raport.netlify.app/">
+      <a
+        target="_blank"
+        rel="noreferrer noopener"
+        href="https://labs-raport.netlify.app/"
+      >
         тут
       </a>
     </p>

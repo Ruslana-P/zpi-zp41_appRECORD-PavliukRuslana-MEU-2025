@@ -17,6 +17,7 @@ export const getLab3_14_description = () => (
       Посилання документ з кодом можна знайти{" "}
       <a
         target="_blank"
+        rel="noreferrer noopener"
         href="https://github.com/Ruslana-P/web_lab3/blob/main/index_2_10.js"
       >
         тут

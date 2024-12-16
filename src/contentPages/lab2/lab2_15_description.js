@@ -1,6 +1,3 @@
-import img2 from "../../images/lab2/lab2_17.png";
-import img1 from "../../images/lab2/lab2_1.png";
-
 export const getLab2_15_description = () => (
   <>
     <h4> Висновки</h4>

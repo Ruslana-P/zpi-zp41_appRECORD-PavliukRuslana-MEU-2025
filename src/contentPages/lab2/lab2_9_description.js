@@ -5,6 +5,7 @@ export const getLab2_9_description = () => (
       <a
         href="https://github.com/Ruslana-P/web_lab2_1_3/blob/main/styles.css"
         target="_blank"
+        rel="noreferrer noopener"
       >
         тут
       </a>
