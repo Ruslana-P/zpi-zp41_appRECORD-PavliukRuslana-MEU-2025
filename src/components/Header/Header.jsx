@@ -1,12 +1,13 @@
 import React from "react";
 import { HeaderContainer, HeaderInfoCnt } from "./styled";
+import avatar from "../../images/5983417634567342137.jpg";
 
 const Header = () => {
   return (
     <HeaderContainer>
       <HeaderInfoCnt>
         <h1>
-          <span>Звіт лаборатоних робіт з дисципліни</span>{" "}
+          <span>Звіт лабораторних робіт з дисципліни</span>{" "}
           <span>"Проєктування Web-застосувань"</span>
         </h1>
         <h2>
@@ -14,7 +15,7 @@ const Header = () => {
         </h2>
       </HeaderInfoCnt>
       <div>
-        <img src="" alt="student avatar" />
+        <img width="150px" src={avatar} alt="student avatar" />
       </div>
     </HeaderContainer>
   );
