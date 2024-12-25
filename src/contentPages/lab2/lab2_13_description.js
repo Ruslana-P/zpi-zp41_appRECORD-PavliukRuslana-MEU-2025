@@ -7,7 +7,7 @@ import img5 from "../../images/lab2/lab2_26.png";
 export const getLab2_13_description = () => (
   <>
     <p>Нижче представлена мобільна версія головної сторінки застосунку</p>
-    <img width="700px" src={img1} alt="main page" />
+    <img width="300px" src={img1} alt="main page" />
     <p style={{ alignItems: "justify" }}>
       HTML code для мобільної має менше елементів ніж для декстопної, оскільки
       мобільна версія містить лише найважливіший контент. Це зроблено для

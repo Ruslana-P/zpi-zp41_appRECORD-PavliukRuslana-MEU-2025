@@ -22,6 +22,7 @@ function App() {
 
   const tabClickHandler = (index) => {
     setTabIndex(index);
+    setSideBarMenuIndex(0);
   };
 
   const sidebarMenuClickHandler = (index) => {
