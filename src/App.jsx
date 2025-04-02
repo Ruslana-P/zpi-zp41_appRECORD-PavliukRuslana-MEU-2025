@@ -8,12 +8,14 @@ import { lab1Content } from "./utils/lab1Content";
 import { lab2Content } from "./utils/lab2Content";
 import { lab3Content } from "./utils/lab3Content";
 import { lab4Content } from "./utils/lab4Content";
+import { lab5Content } from "./utils/lab5Content";
 
 const LabsContent = {
   1: lab1Content,
   2: lab2Content,
   3: lab3Content,
   4: lab4Content,
+  5: lab5Content,
 };
 
 function App() {

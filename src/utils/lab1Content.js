@@ -23,6 +23,7 @@ export const labsNames = [
   { id: 2, text: "Лабораторна робота 2" },
   { id: 3, text: "Лабораторна робота 3" },
   { id: 4, text: "Лабораторна робота 4" },
+  { id: 5, text: "Лабораторна робота 5" },
 ];
 
 export const lab1Content = [
