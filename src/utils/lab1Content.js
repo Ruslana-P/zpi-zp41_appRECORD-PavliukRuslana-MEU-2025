@@ -24,6 +24,7 @@ export const labsNames = [
   { id: 3, text: "Лабораторна робота 3" },
   { id: 4, text: "Лабораторна робота 4" },
   { id: 5, text: "Лабораторна робота 5" },
+  { id: 6, text: "Лабораторна робота 6" },
 ];
 
 export const lab1Content = [

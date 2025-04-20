@@ -9,6 +9,7 @@ import { lab2Content } from "./utils/lab2Content";
 import { lab3Content } from "./utils/lab3Content";
 import { lab4Content } from "./utils/lab4Content";
 import { lab5Content } from "./utils/lab5Content";
+import { lab6Content } from "./utils/lab6Content";
 
 const LabsContent = {
   1: lab1Content,
@@ -16,6 +17,7 @@ const LabsContent = {
   3: lab3Content,
   4: lab4Content,
   5: lab5Content,
+  6: lab6Content,
 };
 
 function App() {
